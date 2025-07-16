@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/pizzaSite/static/css/main.6ada21ee.css",
+    "main.css": "/pizzaSite/static/css/main.b4baa1f5.css",
     "main.js": "/pizzaSite/static/js/main.d67e59a0.js",
     "static/js/453.16f80d77.chunk.js": "/pizzaSite/static/js/453.16f80d77.chunk.js",
+    "static/media/poppins-devanagari-400-normal.woff": "/pizzaSite/static/media/poppins-devanagari-400-normal.421fe9869ff4b58e2d7b.woff",
+    "static/media/poppins-devanagari-400-normal.woff2": "/pizzaSite/static/media/poppins-devanagari-400-normal.d2ee5e6ea17bffe3bf58.woff2",
     "static/media/pizzaLogo.png": "/pizzaSite/static/media/pizzaLogo.deaa6dbd66fd80f77039.png",
+    "static/media/poppins-latin-400-normal.woff": "/pizzaSite/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
+    "static/media/poppins-latin-400-normal.woff2": "/pizzaSite/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
+    "static/media/poppins-latin-ext-400-normal.woff": "/pizzaSite/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
+    "static/media/poppins-latin-ext-400-normal.woff2": "/pizzaSite/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
     "index.html": "/pizzaSite/index.html",
-    "main.6ada21ee.css.map": "/pizzaSite/static/css/main.6ada21ee.css.map",
+    "main.b4baa1f5.css.map": "/pizzaSite/static/css/main.b4baa1f5.css.map",
     "main.d67e59a0.js.map": "/pizzaSite/static/js/main.d67e59a0.js.map",
     "453.16f80d77.chunk.js.map": "/pizzaSite/static/js/453.16f80d77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ada21ee.css",
+    "static/css/main.b4baa1f5.css",
     "static/js/main.d67e59a0.js"
   ]
 }
