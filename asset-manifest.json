@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/pizzaSite/static/css/main.d960db47.css",
-    "main.js": "/pizzaSite/static/js/main.7be76951.js",
+    "main.css": "/pizzaSite/static/css/main.16f6f502.css",
+    "main.js": "/pizzaSite/static/js/main.ca1b3b23.js",
     "static/js/453.16f80d77.chunk.js": "/pizzaSite/static/js/453.16f80d77.chunk.js",
     "static/media/LARGEpromo.png": "/pizzaSite/static/media/LARGEpromo.98e98661f6e9349783cd.png",
+    "static/media/SMALLpromo.png": "/pizzaSite/static/media/SMALLpromo.7a49288a98e593de5e38.png",
     "static/media/poppins-devanagari-400-normal.woff": "/pizzaSite/static/media/poppins-devanagari-400-normal.421fe9869ff4b58e2d7b.woff",
     "static/media/poppins-devanagari-400-normal.woff2": "/pizzaSite/static/media/poppins-devanagari-400-normal.d2ee5e6ea17bffe3bf58.woff2",
-    "static/media/pizzaLogo.png": "/pizzaSite/static/media/pizzaLogo.46edad258b3f42be23eb.png",
+    "static/media/pizzaLogo.png": "/pizzaSite/static/media/pizzaLogo.fd789b755d12add6100d.png",
     "static/media/poppins-latin-400-normal.woff": "/pizzaSite/static/media/poppins-latin-400-normal.1458587c0aa7cd06b82b.woff",
     "static/media/poppins-latin-400-normal.woff2": "/pizzaSite/static/media/poppins-latin-400-normal.405055dd680fa1dcdfa2.woff2",
     "static/media/poppins-latin-ext-400-normal.woff": "/pizzaSite/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
     "static/media/poppins-latin-ext-400-normal.woff2": "/pizzaSite/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
     "index.html": "/pizzaSite/index.html",
-    "main.d960db47.css.map": "/pizzaSite/static/css/main.d960db47.css.map",
-    "main.7be76951.js.map": "/pizzaSite/static/js/main.7be76951.js.map",
+    "main.16f6f502.css.map": "/pizzaSite/static/css/main.16f6f502.css.map",
+    "main.ca1b3b23.js.map": "/pizzaSite/static/js/main.ca1b3b23.js.map",
     "453.16f80d77.chunk.js.map": "/pizzaSite/static/js/453.16f80d77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d960db47.css",
-    "static/js/main.7be76951.js"
+    "static/css/main.16f6f502.css",
+    "static/js/main.ca1b3b23.js"
   ]
 }
