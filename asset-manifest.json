@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pizzaSite/static/css/main.c7caeb41.css",
-    "main.js": "/pizzaSite/static/js/main.cd51f90d.js",
+    "main.css": "/pizzaSite/static/css/main.65f32ab0.css",
+    "main.js": "/pizzaSite/static/js/main.c2778e6b.js",
     "static/js/453.16f80d77.chunk.js": "/pizzaSite/static/js/453.16f80d77.chunk.js",
     "static/media/LARGEpromo.png": "/pizzaSite/static/media/LARGEpromo.98e98661f6e9349783cd.png",
     "static/media/SMALLpromo.png": "/pizzaSite/static/media/SMALLpromo.7a49288a98e593de5e38.png",
@@ -14,12 +14,12 @@
     "static/media/poppins-latin-ext-400-normal.woff": "/pizzaSite/static/media/poppins-latin-ext-400-normal.7e12786771ac4a8e6a5c.woff",
     "static/media/poppins-latin-ext-400-normal.woff2": "/pizzaSite/static/media/poppins-latin-ext-400-normal.d7c074a9c34fe9785f69.woff2",
     "index.html": "/pizzaSite/index.html",
-    "main.c7caeb41.css.map": "/pizzaSite/static/css/main.c7caeb41.css.map",
-    "main.cd51f90d.js.map": "/pizzaSite/static/js/main.cd51f90d.js.map",
+    "main.65f32ab0.css.map": "/pizzaSite/static/css/main.65f32ab0.css.map",
+    "main.c2778e6b.js.map": "/pizzaSite/static/js/main.c2778e6b.js.map",
     "453.16f80d77.chunk.js.map": "/pizzaSite/static/js/453.16f80d77.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7caeb41.css",
-    "static/js/main.cd51f90d.js"
+    "static/css/main.65f32ab0.css",
+    "static/js/main.c2778e6b.js"
   ]
 }
